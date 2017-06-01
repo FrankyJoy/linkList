@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hepeng/workspace/cpp/puzzle/circular_linked_list/withlinklist.cpp
+iostream
+-
+
+/Users/hepeng/workspace/cpp/puzzle/circular_linked_list/withlist.cpp
+iostream
+-
+list
+-
+
+/Users/hepeng/workspace/cpp/puzzle/circular_linked_list/withqueue.cpp
+iostream
+-
+queue
+-
+
